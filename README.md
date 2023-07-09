@@ -1,7 +1,7 @@
 # Data-Cleaning-in-Pandas
 
 Data cleaning plays a crucial role in data analysis. Data might come with flaws such as duplicates, inconsistencies, missing values or incorrect data types. These flaws could result in wrong data interpretation. Data cleaning ensures data quality to be able to gain reliable insights from data.
-In this case, I will be cleaning a customer data that is want to be called by the sales team. Tools used in the data cleaning are Jupyter Notebooks and Pandas.
+In this case, I will be cleaning a customer data that is want to be called by the sales team. Tools used in the data cleaning are **Jupyter Notebooks** and **Pandas**.
 
 Data cleaning includes:
 1. Removing non-alphabetic character from customer names.
